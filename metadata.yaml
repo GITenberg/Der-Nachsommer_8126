@@ -1,0 +1,26 @@
+_repo: Der-Nachsommer_8126
+creator:
+  author:
+    agent_name: Stifter, Adalbert
+    alias: Stifter, A. (Adalbert)
+    birthdate: 1805
+    deathdate: 1868
+    gutenberg_agent_id: '2329'
+    url: http://www.gutenberg.org/2009/agents/2329
+    wikipedia: http://en.wikipedia.org/wiki/Adalbert_Stifter
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8126'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcc 'PT'
+- !lcsh 'Vienna (Austria) -- Fiction'
+title: Der Nachsommer
+url: http://www.gutenberg.org/ebooks/8126

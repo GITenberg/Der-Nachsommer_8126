@@ -31,6 +31,7 @@ Author: Adalbert Stifter
 Release Date: May, 2005 [EBook #8126]
 [Yes, we are more than one year ahead of schedule]
 [This file was first posted on June 16, 2003]
+[Last updated: November 29, 2017]
 
 Edition: 10
 
@@ -949,7 +950,7 @@ Als der Sommer gekommen war, fuhr ich von der Stadt auf dem kürzesten
 Wege in das Gebirge. Von dem Orte meiner Ankunft aus wollte ich dann
 in ihm längs seiner Richtung von Sonnenaufgang nach Sonnenuntergang zu
 Fuße fort wandern. Ich begab mich sofort auf meinen Weg. Ich ging den
-Tälern entlang, selbst wenn sie voll meiner Richtung abwichen und
+Tälern entlang, selbst wenn sie von meiner Richtung abwichen und
 allerlei Windungen verfolgten. Ich suchte nach solchen Abschweifungen
 immer meinen Hauptweg wieder zu gewinnen. Ich stieg auch auf Bergjoche
 und ging auf der entgegengesetzten Seite wieder in das Tal hinab.
@@ -1880,7 +1881,7 @@ Der Knabe machte eine schnelle und leichte Verbeugung gegen mich,
 wendete sich um und ging in derselben Richtung wieder zurück, in der
 er gekommen war.
 
-Wie blieben noch sitzen.
+Wir blieben noch sitzen.
 
 Am Himmel änderte sich indessen wenig. Dieselbe Wolkendecke stand da,
 und wir hörten denselben Donner. Nur da die Decke dunkler geworden zu
@@ -1905,7 +1906,7 @@ verweilen, so steht es nur bei euch, so zu tun.«
 »Ich wollte, wenn das Gewitter auch lange angedauert hätte, doch
 heute noch nach Rohrberg gehen«, sagte ich. »Da ihr aber auf eine so
 freundliche Weise gegen einen unbekannten Reisenden verfahrt, so sage
-ich gerne zu, die heutige Nacht in eurem Hause zuzubringen und hin
+ich gerne zu, die heutige Nacht in eurem Hause zuzubringen und bin
 euch dafür dankbar. Was morgen sein wird, darüber kann ich noch nicht
 entscheiden, weil das Morgen noch nicht da ist.«
 
@@ -3461,7 +3462,7 @@ solches Gesetz gesorgt, als wenn gar keines wäre. Den besten Schutz
 für Kunstwerke der Vorzeit würde freilich eine fortschreitende und
 nicht mehr erlahmende Kunstempfindung gewähren. Aber alle Mittel,
 auch in ihrer größten Vollkommenheit angewendet, würden den endlichen
-Untergang eines Kunstwerkes nicht aufhalten können; dies liegt in der
+Untergang eines Kunstwerkes nicht aufhatten können; dies liegt in der
 immerwährenden Tätigkeit und in dem Umwandlungstriebe der Menschen und
 in der Vergänglichkeit des Stoffes. Alles, was ist, wie groß und gut
 es sei, besteht eine Zeit, erfüllt einen Zweck und geht vorüber. Und
@@ -3575,7 +3576,7 @@ Die alte Gattin des Gärtners, die wir in der Wohnung desselben fanden,
 war ebenso weiß gekleidet wie ihr Mann. An die Gärtnerswohnung stießen
 die Kammern der Gehilfen.
 
-»Jetzt habt jetzt alles gesehen«, sagte mein Gastfreund, da wir aus
+»Ihr habt ihr jetzt alles gesehen«, sagte mein Gastfreund, da wir aus
 diesen Kammern traten, »außer den Gastzimmern, die ich euch zeigen
 werde, wenn ihr es verlangt, und der Wohnung meines Ziehsohnes, die
 wir aber jetzt nicht betreten können, weil wir ihn in seinem Lernen
@@ -5364,7 +5365,7 @@ Tasche und läutete.
 Es erschien in kurzem eine Magd, von welcher er die Schlüssel der
 Zimmer verlangte. Sie holte dieselben und brachte sie an einem Ringe,
 von welchem einzelne los zu lösen waren. Jeder trug die Zahl seines
-Zimmers auf sich eingegraben. Nachdem mein Beberberger die Magd
+Zimmers auf sich eingegraben. Nachdem mein Beherberger die Magd
 verabschiedet hatte, schloß er mir die einzelnen Zimmer auf. Sie waren
 einander vollkommen gleich. Sie waren gleich groß, jedes hatte zwei
 Fenster, und jedes hatte ähnliche Geräte wie das meine.
@@ -5870,7 +5871,7 @@ eingeladen worden, und es wurden bessere Speisen und besserer Wein
 auf den Tisch gesetzt. Auch die zwei alten Leute, die in dem dunkeln
 Stadthause unsere Wohnungsnachbarn gewesen waren, sind zu diesem Mahle
 geladen worden, weil sie mich sehr lieb hatten und weil die Frau
-gesagt hatte, daß aus mir einmal große Dinge worden würden. Diese
+gesagt hatte, daß aus mir einmal große Dinge werden würden. Diese
 Mahle waren schon seit ein paar Jahren Sitte, und die alten Leute
 waren jedesmal Gäste dabei.
 
@@ -7707,7 +7708,7 @@ hat auch sehr oft von euch gesprochen.«
 
 »Er scheint nicht ganz ungerne hier zu sein«, sagte mein Gastfreund;
 »denn sein Angesicht wenigstens hat noch nicht, bei dem früheren so
-wie bei dein jetzigen Besuche, die Heiterkeit verloren.«
+wie bei deinem jetzigen Besuche, die Heiterkeit verloren.«
 
 Ich hatte mich während dieser Reden gesammelt und sagte: »Wenn ich
 auch aus der großen Stadt komme, so bin ich doch wenig mit fremden
@@ -8156,7 +8157,7 @@ seine Bücher, namentlich die neu zu den alten hinzu gekommen waren,
 er erklärte ihr, was er jetzt lerne, und suchte sie in dasselbe
 einzuweihen, wenn sie es auch schon wußte und früher die nehmlichen
 Weg gegangen war. Wenn es die Umstände mit sich brachten, schweiften
-sie in dein Garten herum und freuten sich all des Lebens, was in
+sie in deinem Garten herum und freuten sich all des Lebens, was in
 demselben war, und freuten sich des gegenseitigen Lebens, das sich
 an einander schmiegte und dessen sie sich kaum als eines gesonderten
 bewußt wurden. Die Zeit, welche alle frei hatten, brachten wir häufig
@@ -8733,7 +8734,7 @@ während noch Arabella, das Dienstmädchen Mathildens, diejenigen
 Sachen, die bis zu dem letzten Augenblicke im Gebrauch gewesen waren,
 in den Wagen packte.
 
-Nach dem Frühmahle, als die Frauen schon die Reisehüte aufhalten,
+Nach dem Frühmahle, als die Frauen schon die Reisehüte aufhatten,
 sagte Mathilde zu meinem Gastfreunde:
 
 »Ich danke dir, Gustav, lebe wohl, und komme bald in den Sternenhof.«
@@ -8777,7 +8778,7 @@ Hausdienerschaft war herbei gekommen, Eustach mit seinen Arbeitern
 stand da, der Gärtner mit seinen Leuten und seiner Frau und der Meier
 mit dem Großknechte aus dem Meierhofe waren ebenfalls gekommen.
 
-»Ich danke euch recht schön, lieben Leute«, sagte Mathilde, »ich danke
+»Ich danke euch recht schön, liebe Leute«, sagte Mathilde, »ich danke
 euch für eure Freundschaft und Güte, seid für euren Herrn treu und
 gut. Du, Katharina, sehe auf ihn und Gustav, daß keinem ein Ungemach
 zustößt.«
@@ -9972,7 +9973,7 @@ Gebirgserzeugnissen und durch immer ausgedehnteren Verkehr in viele
 Gegenden der Erde wohlhabend und durch Entartung ihrer Nachkommen,
 durch den Leichtsinn derselben und durch Verschwendung wieder arm
 geworden war. Einer dieses Geschlechtes hatte das große steinerne Haus
-gebaut. Er gehörte jetzt einem fremden Herrn aus der Stadt, welcher
+gebaut. Es gehörte jetzt einem fremden Herrn aus der Stadt, welcher
 es seiner Lage und seiner Seltenheiten willen gekauft hatte und
 es zuweilen besuchte. In dem Hause waren schöne Bauwerke, schöne
 Steinarbeiten und schöne Arbeiten aus Holz, teils in Zimmerdecken,
@@ -10586,7 +10587,7 @@ lange dauern? So lange Luft, Licht, Wärme und Wasser dieselben
 bleiben, so lange es Höhen gibt, so lange wird es dauern. Werden
 die Gebirge also einstens verschwunden sein? Werden nur flache,
 unbedeutende Höhen und Hügel die Ebenen unterbrechen, und werden
-spähst diese auseinander gewaschen werden? Wird dann die Wärme in den
+spelbst diese auseinander gewaschen werden? Wird dann die Wärme in den
 feuchten Niederungen oder in tiefen, heißen Schluchten verschwinden,
 so wie die kalte Luft in Höhen auf die Erde ohne Einfluß sein wird,
 so daß alle Glieder in unsern Ländern von demselben lauen Stoffe
@@ -10761,7 +10762,7 @@ Auge soll ihr dienen. In Hinsicht der Farbgebung der Fernen riet er
 mir, dort, wo ich einen Zweifel hätte, ob ich etwas sähe oder nur
 wisse, es lieber nicht anzugeben und überhaupt in der Farbe lieber
 unbestimmter als bestimmter zu sein, weil dadurch die Gegenstände an
-Großartigkeit gewinnen. Sie worden durch die Unbestimmtheit ferner
+Großartigkeit gewinnen. Sie werden durch die Unbestimmtheit ferner
 und durch dieses allein größer. Durch Linien des Zeichnenstiftes auf
 dem kleinen Papiere oder der kleinen Leinwand könne man nichts groß
 machen. Durch Verdeutlichung werden die Körper näher gerückt und
@@ -10843,7 +10844,7 @@ zusammengestellt. Ich habe Dichter in fremden Sprachen, die ich nicht
 verstand, dazu getan, wenn ich nur wußte, daß sie in der Geschichte
 ihres Volkes vorzüglich genannt werden, und wenn ich von einem
 Fachmanne das Zeugnis hatte, daß ich in dem Buche den Dichter besitze,
-den ich meine. Sie mögen unverstanden hier stehen oder es man wohl
+den ich meine. Sie mögen unverstanden hier stehen oder es mag wohl
 einer oder der andere in diesen Saal kommen, der manchen versteht
 und liest. Ich habe wohl auch solche Bücher hieher gestellt, die
 mir gefallen, das Urteil der Zeit mag anders lauten oder erst
@@ -10904,7 +10905,7 @@ letzterem es sich in der Gestalt gewagter Behauptungen ausspricht; nur
 in der sogenannten Weisheitslehre kann es verborgener sein gleichwie
 in der Dichtkunst, weil manche Weisheitslehre wie Dichtkunst zusammen
 gestellt ist und wirkt: aber in den Werken der eigentlichen Dichtkunst
-versteckt es sieh vor dem blühenden Gemüte des Jünglings, dieser
+versteckt es sich vor dem blühenden Gemüte des Jünglings, dieser
 breitet seine Blüten und seine Begierden darüber und saugt das Gift in
 sich. Ein klarer Verstand, der sich von Kindheit an eben zur Klarheit
 hingeübt hat, und ein gutes, reines Herz sind Schutzwehren vor
@@ -10914,7 +10915,7 @@ die Unsittlichkeit ablehnt. Aber Beides geschieht nur gegen die
 Entschiedenheit des Schlechten. Wo es in Reize verhüllt ist und mit
 Reinem gemischt, dort ist es am bedenklichsten, und da müssen Ratgeber
 und väterliche Freunde zu Hilfe stehen, daß sie teils aufklären,
-teils von vornherein die Annäherung des Übels aufhalten. Gegen die
+teils von vornherein die Annäherung des Übels aufhatten. Gegen die
 Schlechtigkeit in der Darstellung oder gegen die lange Weile braucht
 man kein Mittel als sie selber. Ihr seid zwar noch jung; aber ihr
 seid nicht so jung zu dem Lesen von Dichtern gekommen wie die meisten
@@ -11073,7 +11074,7 @@ abgewartet, an welchem er Zeit hatte und an welchem er gerne nach dem
 Mittagessen eine geraume Weile in dem Kreise seiner Familie zubrachte.
 Ich legte die Blätter vor ihm auf einem Tische auseinander. Er schien
 mir bei ihrem Anblick - ich kann sagen - betroffen. Er sah die Blätter
-genau au, nahm jedes mehrere Male in die Hand und sagte längere Zeit
+genau an, nahm jedes mehrere Male in die Hand und sagte längere Zeit
 kein Wort. Endlich ging seine Empfindung in eine unverhohlene Freude
 über. Er sagte, ich wisse gar nicht, was ich gemacht hätte, ich wisse
 gar nicht, welchen Wert diese Dinge hätten, ich hätte in früherer Zeit
@@ -12589,7 +12590,7 @@ mittelalterlichen Gebilden war es mir ein liebes, einfaches, argloses
 Gemüt, das gläubig und innig nach Mitteln griff, sich auszusprechen,
 der Mittel nicht völlig Herr wurde, dies nicht wußte und doch
 Wirkungen hervorbrachte, die noch jetzt ihre Macht auf uns äußern und
-uns mit Staunen erfüllen. Eis ist die Seele, die da spricht und in
+uns mit Staunen erfüllen. Es ist die Seele, die da spricht und in
 ihrer Reinheit und in ihrem Ernste uns mit Bewunderung erfüllt,
 während spätere Zeiten, von denen Eustach zahlreiche Abbildungen von
 Bildwerken vorlegte, trotz ihrer Einsicht, ihrer Aufgeklärtheit und
@@ -13331,7 +13332,7 @@ schöne Rose zusammenlief. Diese Rose war von vorzüglich leichter
 Arbeit und war ihrem Vorbilde treuer, als ich irgendwo in Eisen
 gesehen hatte. Außerdem war das ganze Gitter in zierlicher Art
 zusammengestellt, und die Stäbe hatten nebst der Schlußrose noch
-manche andere bedeutsam Verzierungen. Es war fast gegen Abend, als ich
+manche andere bedeutsame Verzierungen. Es war fast gegen Abend, als ich
 mich in einer Stube des Erdgeschosses, deren Fenster auf die Rosen
 hinausgingen, befand, um mir vorläufig die ganze Gestalt des Gitters,
 die außen zu sehr von den Rosen verdeckt war, zu entwerfen. Die
@@ -14475,7 +14476,7 @@ auf der Treppe des Hauses meines Gastfreundes stand.
 »Das sind lauter antike Bildungen«, sagte mein Vater.
 
 Es waren verschiedene Steine von verschiedenem Werte und verschiedener
-Größe. Edelsteine, die durch ihren Stoff einen hohen Wort nach unsern
+Größe. Edelsteine, die durch ihren Stoff einen hohen Wert nach unsern
 heutigen Begriffen haben, wie Saphire, Rubine, waren nicht dabei;
 doch aber mindere, die wohl als Schmuck getragen werden können, und,
 wie ich mich jetzt deutlich erinnerte, von unserer Mutter auch bei
@@ -15968,7 +15969,7 @@ Zimmer ausruhen kann, so denke ich, ich werde nun nicht wieder so weit
 gehen. - Und wo seid denn ihr gewesen?« fragte sie, nachdem sie sich
 unterbrochen und ein Weilchen geschwiegen hatte.
 
-»Ich bin nach dein Essen von dem Erlenbache zu dem Teiche hinauf
+»Ich bin nach dem Essen von dem Erlenbache zu dem Teiche hinauf
 gegangen«, antwortete ich, »dann durch das Gehölze auf den Balkhügel
 empor, von dem man die Gegend von Landegg sieht und den Turm seiner
 Pfarrkirche erblicken kann. Von dem Balkhügel bin ich dann noch auf
@@ -16272,7 +16273,7 @@ erfahren konnte, und durch sein lebhaftes Wesen und sein gutes
 Gedächtnis wurde er zur Erforschung angeleitet und war im Stande, das
 Erforschte zu bewahren. Die ältliche Frau, welche wir bei unserem
 Eintritte in das Gesellschaftszimmer neben Mathilden sitzen gesehen
-hatten, war die Besitzerin einem großen Anwesens, etwa eine halbe
+hatten, war die Besitzerin eines großen Anwesens, etwa eine halbe
 Tagereise von dem Sternenhofe entfernt. Ihr Name war Tillburg, wie
 auch ihr Schloß hieß. Sie hatte sich mit allen Annehmlichkeiten und
 mit allem, was prächtig war, umringt. Ihre Gewächshäuser waren die
@@ -16896,7 +16897,7 @@ Zweimal wurde die Arbeit unterbrochen. Ich ging in das Rothmoor, um
 nachzusehen, wie weit die Dinge, die aus meinen Marmoren verfertigt
 werden sollten, gediehen wären und wie gut sie ausgeführt würden.
 Die Fortschritte waren zu loben. Man sagte - und ich selber sah die
-Möglichkeit ein -, daß in diesem Sommer noch alles fertig worden
+Möglichkeit ein -, daß in diesem Sommer noch alles fertig werden
 würde. Aber in Hinsicht der Güte hatte ich Ausstellungen zu machen.
 Ich ordnete mit Bitten, Vorstellungen und Versprechen an, daß man das,
 was ich angab, so genau und so rein mache, wie ich es wollte.
@@ -17098,7 +17099,7 @@ Vergnügungen gegriffen, Musik, Tanz, Liedersingen. Manche jüngere
 Leute lernten sich da neu kennen, ältere setzten die früher bestandene
 Bekanntschaft fort.
 
-Ich besuchte meine Freunde. besprach mich mit ihnen und erzählte ihnen
+Ich besuchte meine Freunde, besprach mich mit ihnen und erzählte ihnen
 im Allgemeinen, womit ich mich eben beschäftige. Sie teilten mir
 aus dem Kreise ihrer Erlebnisse mit und machten mich auf manche
 Persönlichkeiten aufmerksam.
@@ -17411,7 +17412,7 @@ unsicher auf ihrem Besitztume, sie müßten Manches aus sich schöpfen
 wie ein Mann und genießen der weiblichen Rechte nur in dem
 Widerscheine des Lebens ihrer Freunde, mit dem der Lauf der Jahre sie
 verbunden habe. Das sei die Lage, sie daure ihrer Natur nach so fort
-und gebe ihrer Entwicklung entgegen. Mich hatte diese Darstellung
+und gehe ihrer Entwicklung entgegen. Mich hatte diese Darstellung
 Mathildens beinahe ernst gemacht. Die Stimmung milderte sich wieder,
 da wir auf die Erzählung von Dingen kamen, die sich in diesem Sommer
 zugetragen hatten. Mathilde berichtete mir über die Rosenblüte, über
@@ -18478,7 +18479,7 @@ Ich begab mich an ihre Seite, und wir wandelten den Weg, den ich
 gekommen war, zurück.
 
 Ich hätte ihr sehr gerne meinen Arm angeboten; aber ich hatte nicht
-den Mut dazu,
+den Mut dazu.
 
 Wir gingen langsam auf dem feinen Sandwege dahin, an einem Baumstamme
 nach dem andern vorüber, und die Schatten, welche die Bäume auf den
@@ -18523,7 +18524,7 @@ Zug der Gebirge sehen. Im Winter ist die Landschaft sehr still, weil
 die Menschen sich in ihren Häusern halten, so viel sie können, weil
 die Singvögel Abschied genommen haben, weil das Wild in die tieferen
 Wälder zurück gegangen ist, und weil selbst ein Gespann nicht den
-tönenden Rufschlag und das Rollen der Räder hören läßt, sondern nur
+tönenden Hufschlag und das Rollen der Räder hören läßt, sondern nur
 der einfache Klang der Pferdeglocke, die man hier hat, anzeigt, daß
 irgend wo jemand durch die Stille des Winters fährt. Wir gehen auf der
 klaren Bahn dahin, die Mutter leitet die Gespräche auf verschiedene
@@ -19601,7 +19602,7 @@ Roland war wie gewöhnlich im Sommer nicht in dem Asperhofe anwesend.
 
 Mit Eustach besuchte ich auch die Bilder meines Gastfreundes, seine
 Kupferstiche, seine Schnitzereien und seine Geräte. Wir sprachen über
-die Dinge, und ich suchte mir ihren Wort und ihre Bedeutung immer mehr
+die Dinge, und ich suchte mir ihren Wert und ihre Bedeutung immer mehr
 eigen zu machen. Auch in das Bücherzimmer, den Marmorsaal und das
 Treppenhaus meines Gastfreundes ging ich. Wie war die Gestalt auf
 der Treppe erhaben, edel und rein gegen die Nymphe in der Grotte des
@@ -19935,7 +19936,7 @@ aus Gnaden gehalten wurde.«
 
 
 Wir waren unseres Freundes Meinung. Eustach ohnehin schon, weil er
-die Kunstdinge als das Höchste dem irdischen Lebens ansah und ein
+die Kunstdinge als das Höchste des irdischen Lebens ansah und ein
 Kunststreben als bloßes Bestreben schon für hoch hielt, wie er auch
 zu sagen pflegte, das Gute sei gut, weil es gut sei. Ich stimmte bei,
 weil mich das, was mein Gastfreund sagte, überzeugte, und Gustav
@@ -20070,7 +20071,7 @@ dieser Erkenntnis und in diesem Erfülltsein. Es steht der Übertragung
 der baulichen Gestaltungen auf Schmuck auch ein stoffliches Hindernis
 entgegen. Die Gebäude, an denen der Schönheitssinn besonders zur
 Ausprägung kam, waren immer mehr oder weniger ernste Gegenstände:
-Kirchen, Palläste, Brücken und im Altertume Säulen und Bögen. Im
+Kirchen, Paläste, Brücken und im Altertume Säulen und Bögen. Im
 Mittelalter sind die Kirchen weit das Überwiegende; bleiben wir also
 bei ihnen. Um den Ernst und die Würde der Kirche darzustellen, ist der
 Stoff nicht gleichgültig, aus dem man sie verfertiget. Man wählte den
@@ -20330,7 +20331,7 @@ meinen Brief angezeigt hatte, daß ich mit meinem Gastfreunde eine
 kleine Reise zu einer altertümlichen Kirche machen würde. Auch hatten
 sie sich vorgestellt, daß ich noch einmal in meinen Aufenthaltsort
 in das Hochgebirge gehen und mich auf der Rückreise eine Zeit in dem
-Sternenhofe aufhalten werde. Sie irrten aber; denn obwohl ich in
+Sternenhofe aufhatten werde. Sie irrten aber; denn obwohl ich in
 beiden Orten war, war ich doch nicht lange dort, und es drängte mein
 Herz, den Meinigen zu eröffnen, wie meine Angelegenheiten stehen. Als
 ich dieses getan hatte, waren sie bei Weitem weniger ergriffen, als
@@ -21511,7 +21512,7 @@ von mir Abschied genommen, er war mir durch diese Unternehmung noch
 mehr befreundet geworden, als er es früher gewesen war.
 
 Die größere Wärme in den oberen Teilen der Luft, welche nur ein
-Verbote des beginnenden Südwindes gewesen war, hatte sich nun völlig
+Vorbote des beginnenden Südwindes gewesen war, hatte sich nun völlig
 geltend gemacht, der Südwind war in den Höhen eingetreten, obwohl es
 in der Tiefe noch kalt war, Wolken hatten die Berge umhüllt, zogen
 über die Länder hinaus und schüttelten Regen herab, der in Gestalt von
@@ -22663,7 +22664,7 @@ ausschließlich dazu zu wählen, wie man sich so oft ausdrückt, der
 Menschheit nützlich zu werden. Man gäbe sich selber auf und müßte in
 den meisten Fällen im eigentlichen Sinne sein Pfund vergraben. Aber
 was ist es mit der Wahl? Unsere gesellschaftlichen Verhältnisse sind
-so geworden, daß zur Befriedigung unserer stofflichen Bedürfniese ein
+so geworden, daß zur Befriedigung unserer stofflichen Bedürfnise ein
 sehr großer Aufwand gehört. Daher werden junge Leute, ehe sie sich
 selber bewußt werden, in Laufbahnen gebracht, die ihnen den Erwerb
 dessen, was sie zur Befriedigung der angeführten Bedürfnisse brauchen,
@@ -23330,7 +23331,7 @@ Gesellschaft vermissen werdet. Ich beschäftige mich mit einigen
 wissenschaftlichen Dingen, und wenn euch ein Gespräch hierin, falls
 wir in den Gegenständen zusammentreffen, nicht unangenehm ist, so
 betrachtet mich als euren älteren Bruder, und zwar nicht bloß hierin,
-sondern auch in allen an. deren Dingen.<«
+sondern auch in allen anderen Dingen.<«
 
 »>Ich bin durch eure Güte sehr beschämt<, antwortete ich, >und sehe
 jetzt erst, wie groß die Aufgabe ist, die ich in eurem Hause habe. Ich
@@ -26151,7 +26152,7 @@ als Gäste eingefunden. Die Bande waren sehr schön und lieb geflochten.
 
 Gleich am ersten Tage meiner Anwesenheit im elterlichen Hause führte
 mich meine Mutter in die Zimmer, die für mich und Natalien als Wohnung
-hergerichtet worden waren, wenn wir uns in der Stadt aufhalten
+hergerichtet worden waren, wenn wir uns in der Stadt aufhatten
 wollten. Ich hatte gar nicht gedacht, daß in dem Hause so viel Platz
 sei, so geräumig war die Wohnung. Sie war zugleich so schön und edel
 angeordnet, daß ich meine Freude daran hatte. Ich sprach bei dieser
@@ -26484,7 +26485,7 @@ meinem Glücke geführt«, sagte ich.
 »Die alte Frau, die in dem dunkeln Stadthause unsere Wohnungsnachbarin
 und zuweilen unser Gast war«, sagte mein Vater, »hat dir, Heinrich,
 die Weissagung gemacht, es werde recht viel aus dir werden: und nun
-bist da bloß, wie du selber sagst, glücklich geworden.«
+bist du bloß, wie du selber sagst, glücklich geworden.«
 
 »Das Andere wird kommen«, riefen mehrere Stimmen.
 
@@ -26937,7 +26938,7 @@ Tages Natalie und ich zu unserem neuen Vater und baten ihn, er möge
 ein Versprechen von uns annehmen, dessen Annahme uns sehr freuen
 wurde.
 
-»Uns was ist das?« fragte er.
+»Und was ist das?« fragte er.
 
 »Daß wir, wenn du uns dereinst in dieser Welt früher verlassen
 solltest als wir dich, keine Veränderung in allem, wie es sich in dem
